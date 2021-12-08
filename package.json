@@ -1,0 +1,21 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "description": "curso de javscript - projeto bytebank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-edu-santos/cursoJS2.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-edu-santos/cursoJS2/issues"
+  },
+  "homepage": "https://github.com/lucas-edu-santos/cursoJS2#readme",
+  "type" : "module"
+}
